@@ -3,14 +3,11 @@
     --secondary-color: #e6ebe0;
     --accent1-color: #599da2;
     --accent2-color: #f0bc4d;
-    --heading-font: "Boldonse";
-    --paragraph-font: "merriweather";
     --background-color: #f8f9fa;
     --text-color: #333333;
 }
 
 body {
-    font-family: var(--paragraph-font);
     color: var(--text-color);
     background-color: var(--background-color);
     margin: 0;
@@ -63,7 +60,6 @@ main>div h1 {
     top: 10%;
     left: 30%;
     font-size: 3rem;
-    font: var(--heading-font);
     color: #ffffff;
 }
 
@@ -84,7 +80,6 @@ main>div article img {
 }
 
 h2 {
-    font: var(--heading-font);
     color: var(--primary-color);
     margin-bottom: 1rem;
 }
