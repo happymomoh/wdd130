@@ -20,7 +20,7 @@ header {
     display: grid;
     grid-template-columns: 1fr 1fr;
     border-radius: 5px;
-    padding: 10px solid var(--primary-color);
+    padding: 10px;
     border: 2px solid var(--primary-color);
     max-width: 1000px;
 }
