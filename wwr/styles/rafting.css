@@ -205,6 +205,9 @@ form button {
     height: 3rem;
     width: 5rem;
     margin-top: 1rem;
+    font-size: large;
+    color: #fff;
+    background-color: var(--secondary-color);
 }
 
 footer {
