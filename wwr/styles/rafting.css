@@ -153,13 +153,18 @@ figcaption {
     padding-bottom: 1em;
 }
 
+h1 {
+    grid-column: 1/span 3;
+    justify-self: center;
+}
+
 .information {
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-content: space-around;
 }
 
-.information h1 {
+.information h2 {
     grid-column: 1/span 3;
     justify-self: center;
 }
