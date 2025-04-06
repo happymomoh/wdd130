@@ -198,6 +198,7 @@ h1 {
 form {
     font: var(--paragraph-font);
     margin: 1rem;
+    background-color: var(--primary-color);
 }
 
 form button {
