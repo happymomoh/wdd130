@@ -159,7 +159,7 @@ figcaption {
     justify-content: space-around;
 }
 
-.information h2 {
+.information h1 {
     grid-column: 1/span 3;
     justify-self: center;
 }
