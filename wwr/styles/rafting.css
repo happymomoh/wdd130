@@ -219,6 +219,10 @@ footer {
     color: var(--primary-color);
 }
 
+a {
+    color: var(--primary-color);
+}
+
 .socialmediaicons {
     grid-column: 3;
 }
